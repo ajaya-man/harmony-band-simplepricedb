@@ -54,4 +54,5 @@ contract SimplePriceDB {
         );
         price = uint256(result.px);
     }
+    
 }
